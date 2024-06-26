@@ -1,0 +1,41 @@
+.navbar {
+  background-color: #223d66;
+  padding: 10px !important;
+}
+
+.logo_icon {
+  border-radius: 100px;
+  margin: 2%;
+}
+
+.btn_style {
+  color: #f2f4f9 !important;
+  --background-color: #223d66;
+  font-size: 16px;
+  height: 25px !important;
+}
+
+.cont-link {
+  text-decoration: none;
+  padding: 5px;
+}
+
+.foot-img {
+  border-radius: 500px !important;
+}
+
+.sub-main-footer {
+  background-color: #223d66;
+  padding: 5%;
+}
+
+.map,
+.component-wrapper {
+  border-radius: 20px !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.footer_logo {
+  border-radius: 520px !important;
+}

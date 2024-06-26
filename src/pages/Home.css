@@ -1,0 +1,215 @@
+.page {
+  background-color: #223166 !important;
+}
+
+.video-background {
+  position: relative;
+  max-height: 700px !important;
+  background-color: #223d66e4;
+}
+
+.video {
+  max-height: 700px !important; /* Set the maximum height */
+  margin: 0 auto; /* Center the video horizontally */
+  background-color: #223d66e4;
+}
+
+.video_more {
+  max-height: 700px !important; /* Set the maximum height */
+  margin: 0 auto; /* Center the video horizontally */
+  background-color: #223d66e4;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  min-height: 700px !important;
+  max-height: 700px !important;
+  background-color: #223d66e4;
+}
+
+.overlay_more {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  min-height: 250px !important;
+  max-height: 250px !important;
+  background-color: #223d66e4;
+}
+
+.content_more {
+  position: absolute;
+  top: 00px;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  color: white;
+}
+
+#contact_card_title {
+  color: rgb(133, 133, 133) !important;
+}
+
+.content {
+  position: absolute;
+  top: 400px;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  color: white;
+}
+
+.centered-text h1 {
+  font-size: 2rem;
+  margin-bottom: 10px;
+}
+
+.centered-text p {
+  font-size: 1.2rem;
+}
+
+.main_title {
+  font-size: 40px !important;
+}
+
+.main_button_title {
+  --background: #223166;
+  height: 50px;
+  margin: 5% !important;
+}
+
+.main_title_color_span {
+  color: #223166;
+}
+
+.main-about-section {
+  padding-left: 33px;
+}
+
+.sub-main {
+  background-color: rgb(235, 235, 235) !important;
+  width: 100% !important;
+  padding: 10% !important;
+  padding-top: 5% !important;
+}
+
+.sub-sub-main {
+  background-color: #f6f6f6 !important;
+  width: 100% !important;
+  padding: 10% !important;
+  padding-top: 5% !important;
+}
+
+.sub-sub-main-about {
+  background-color: #223d66 !important;
+  width: 100% !important;
+  padding: 10% !important;
+  padding-top: 5% !important;
+}
+
+.main_v_bg {
+  max-height: 700px !important;
+  min-height: 700px !important;
+  overflow: hidden;
+}
+
+.main_v_bg_more {
+  max-height: 250px !important;
+  min-height: 250px !important;
+  overflow: hidden;
+}
+
+.main_title {
+  padding-top: 0 !important;
+  padding-bottom: 5%;
+}
+
+.main_title_sub {
+  border-left: 5px solid #656565;
+  padding: 1%;
+  font-family: "Codystar", sans-serif;
+  font-family: "Comfortaa", sans-serif;
+  font-family: "Montserrat", sans-serif;
+  font-family: "Nunito", sans-serif;
+  font-family: "Nunito Sans", sans-serif;
+}
+
+.card-title-about {
+  border-left: 5px solid #eeeeeeb7;
+  color: #eeeeeed2 !important;
+  padding: 1%;
+}
+
+.card {
+  border-style: none;
+  background-color: rgb(255, 255, 255);
+  padding: 5%;
+  border-radius: 20px;
+}
+
+.input_f {
+  padding: 2% !important;
+}
+
+.inner-scroll {
+  padding-bottom: 0 !important;
+}
+
+.contact-btn {
+  border-radius: 5px !important;
+  width: 200px;
+  height: 40px;
+  margin-top: 5% !important;
+  margin: 2%;
+  background-color: #223166db;
+}
+
+.cont {
+  padding: 0 !important;
+  margin: 0 !important;
+  padding-bottom: 0 !important;
+  overflow: inherit !important;
+}
+
+.inner-scroll {
+  --display: none !important;
+  padding-bottom: 0 !important;
+}
+
+.icon_color {
+  color: #223d66 !important;
+  height: 100% !important;
+  width: 100% !important;
+  padding: 5%;
+  border-radius: 200px;
+}
+
+.sub-sub-logo {
+  border-radius: 200px;
+}
+
+#contact_a,
+#contact_b {
+  max-height: 600px;
+  min-height: 600px;
+}
+
+#contact_b {
+  background-color: #22316600;
+  margin: 0 !important;
+  padding: 0 !important;
+  border-radius: 20px !important;
+}
+
+#contact_row {
+  background-color: white;
+  border-radius: 20px;
+}
+
+.boder-style-color {
+  border: 0.1px solid #223166;
+  
+}

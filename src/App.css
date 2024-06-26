@@ -1,0 +1,16 @@
+body {
+  font-family: "Codystar", sans-serif;
+  font-family: "Comfortaa", sans-serif;
+  font-family: "Marcellus", serif;
+  font-family: "Montserrat", sans-serif;
+  font-family: "Nunito", sans-serif;
+  font-family: "Nunito Sans", sans-serif;
+  background-color: #223d66 !important;
+  overflow: hidden;
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+.inner-scroll {
+  padding-bottom: 0;
+}
